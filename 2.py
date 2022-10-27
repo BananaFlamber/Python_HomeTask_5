@@ -1,3 +1,5 @@
+print("\033c")
+
 with open("file_encode.txt", "w") as data:
     data.write("WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW")
 
